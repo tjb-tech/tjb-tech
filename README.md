@@ -2,7 +2,7 @@
 
 Hello there! It's Jiabin Tang from the University of Hong Kong.
 
-🔭 I’m a second-year Ph.D. student at HKU.
+🔭 I’m a second-year Ph.D. student.
 
 🌱 My current research interests include Graph Learning and Large Language Models (LLMs).
 
